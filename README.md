@@ -47,4 +47,4 @@
 
 不定期分享一线互联网公司技术架构，电商架构，高并发系统架构，大数据架构，扫码加入QQ群：
 
-![互联网公司架构交流QQ群](其他/architecture-qq-group.png)
+![互联网公司架构交流QQ群](其他/architecture-qq-group.png)11111
